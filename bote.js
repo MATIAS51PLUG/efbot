@@ -132,9 +132,9 @@
 	var fork = "";
 	
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Enigma",
+        botName: "ElectronicFamilyBoT",
         language: "english",
-        chatLink: "https://rawgit.com/MATIAS51PLUG/Jamie-BOT/master/english.json",
+        chatLink: "https://rawgit.com/MATIAS51PLUG/efbot/master/english.json",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: false, // true or false
